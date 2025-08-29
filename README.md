@@ -1,2 +1,3 @@
 # NLP_SentimentAnalysis
-Sentiment analysis is a natural language processing (NLP) technique used to determine the sentiment expressed in a given text. This project aims to analyze user reviews of a ChatGPT application and classify them as positive, neutral, or negative based on the sentiment expressed.
+This project analyzes user reviews and predicts sentiment (Positive, Neutral, Negative) using Machine Learning (XGBoost + TF-IDF).It also provides Exploratory Data Analysis (EDA) Insights like trends, word clouds, and sentiment comparisons.The goal is to gain insights into customer satisfaction, identify common concerns, and enhance the application's user experience.
+Built with ❤️ using Python, scikit-learn, XGBoost, and Streamlit.
