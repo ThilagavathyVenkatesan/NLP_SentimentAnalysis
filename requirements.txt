@@ -1,0 +1,22 @@
+# Core Libraries
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+
+# Machine Learning
+xgboost
+lightgbm
+
+# Deep Learning
+tensorflow
+torch
+transformers
+
+# Web App
+streamlit
+
+# Utils
+pickle-mixin
