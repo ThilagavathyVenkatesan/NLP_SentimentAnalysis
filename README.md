@@ -79,6 +79,9 @@ Built with ❤️ using Python, scikit-learn, TensorFlow/Keras, Hugging Face Tra
 ├── requirements.txt                 # Python dependencies  
 ├── README.md                        # Project documentation  
 
+### 📸 Screenshots
+
+
 ## 🚀 How to Run
 
 Follow these steps to set up and run the project locally in VS Code with Streamlit:
@@ -88,11 +91,11 @@ git clone https://github.com/ThilagavathyVenkatesan/NLP_SentimentAnalysis.git
 cd NLP_SentimentAnalysis
 
 ### 2️⃣ Create a Virtual Environment
-# Windows
+## Windows
 python -m venv venv
 venv\Scripts\activate
 
-# macOS/Linux
+## macOS/Linux
 python3 -m venv venv
 source venv/bin/activate
 
@@ -111,9 +114,8 @@ pip install -r requirements.txt
    - `label_encoder.pkl`
 
 ### 5️⃣ Run the Streamlit App
-
 ```bash
-streamlit run app/NLPapp.py
+streamlit run NLPapp.py
 
 # Open in Browser
 By default, the app runs at:
