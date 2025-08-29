@@ -4,19 +4,19 @@ Built with ❤️ using Python, scikit-learn, TensorFlow/Keras, Hugging Face Tra
 
 ## 🔧 Features
 
-✅ Real-time Sentiment Prediction (Positive, Neutral, Negative)
-✅ EDA Dashboard with 10 key insights
-✅ 📈 Visualizations using Matplotlib & Seaborn
-✅ 🌍 WordClouds for each sentiment
-✅ 🔮 Model trained with TF-IDF + XGBoost
-✅ ⚡ Easy-to-use Streamlit App
+✅ Real-time Sentiment Prediction (Positive, Neutral, Negative)                                                                                                                            
+✅ EDA Dashboard with 10 key insights                                                                                                                                                      
+✅ 📈 Visualizations using Matplotlib & Seaborn                                                                                                                                           
+✅ 🌍 WordClouds for each sentiment                                                                                                                                                       
+✅ 🔮 Model trained with TF-IDF + XGBoost                                                                                                                                                 
+✅ ⚡ Easy-to-use Streamlit App                                                                                                                                                           
 
-## 🛠️ Tech Stack
- Programming: Python 🐍
- Machine Learning: scikit-learn (Logistic Regression, Random Forest, Naive Bayes), XGBoost
- Deep Learning:
-   TensorFlow/Keras → LSTM, GRU
-   Hugging Face Transformers → BERT, DistilBERT
- Visualization: Matplotlib, Seaborn, WordCloud
- App Framework: Streamlit
- Data Handling: Pandas, NumPy
+## 🛠️ Tech Stack                                                                                                                                                                            
+ 1.Programming: Python 🐍                                                                                                                                                                  
+ 2.Machine Learning: scikit-learn (Logistic Regression, Random Forest, Naive Bayes), XGBoost                                                                                               
+ 3.Deep Learning:                                                                                                                                               
+       * TensorFlow/Keras → LSTM, GRU
+       * Hugging Face Transformers → BERT, DistilBERT
+ 4.Visualization: Matplotlib, Seaborn, WordCloud
+ 5.App Framework: Streamlit
+ 6.Data Handling: Pandas, NumPy
