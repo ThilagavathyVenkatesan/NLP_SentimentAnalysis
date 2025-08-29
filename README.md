@@ -15,8 +15,7 @@ Built with ❤️ using Python, scikit-learn, TensorFlow/Keras, Hugging Face Tra
  1.Programming: Python 🐍                                                                                                                                                                  
  2.Machine Learning: scikit-learn (Logistic Regression, Random Forest, Naive Bayes), XGBoost                                                                                               
  3.Deep Learning:                                                                                                                                               
-       * TensorFlow/Keras → LSTM, GRU
-       * Hugging Face Transformers → BERT, DistilBERT
- 4.Visualization: Matplotlib, Seaborn, WordCloud
- 5.App Framework: Streamlit
+       * TensorFlow/Keras → LSTM, GRU                                                                                                                                                             * Hugging Face Transformers → BERT, DistilBERT
+ 4.Visualization: Matplotlib, Seaborn, WordCloud 
+ 5.App Framework: Streamlit                                                                                                                                                               
  6.Data Handling: Pandas, NumPy
