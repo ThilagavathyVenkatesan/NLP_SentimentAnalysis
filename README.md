@@ -60,9 +60,8 @@ Built with ❤️ using Python, scikit-learn, TensorFlow/Keras, Hugging Face Tra
 
 ├── 📁 notebooks/  
 │   ├── NLP_eda.ipynb                # Exploratory Data Analysis (EDA)  
-│   ├── sentiment_models.ipynb       # Machine Learning model training  
-│   ├── deep_learning_models.ipynb   # LSTM / GRU / BERT experiments  
-
+│   ├── sentiment_models.ipynb       # Machine Learning model training + LSTM / GRU / BERT experiments
+  
 ├── 📁 models/  
 │   ├── sentiment_model.pkl          # Saved ML/DL model  
 │   ├── tfidf_vectorizer.pkl         # TF-IDF vectorizer  
@@ -80,6 +79,13 @@ Built with ❤️ using Python, scikit-learn, TensorFlow/Keras, Hugging Face Tra
 ├── README.md                        # Project documentation  
 
 ### 📸 Screenshots
+<img width="1366" height="768" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/4b51eda0-8b74-47c6-88a7-af87da05ab1b" />
+<img width="1366" height="768" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/6e09e7a7-dc10-45f5-ac7a-67ce249050d3" />
+<img width="1366" height="768" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/2ae68d7b-524a-409b-b4a9-f7c2929c6c01" />
+<img width="1366" height="768" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/2f03b2ec-04b5-42ef-a25b-ed0d5f35e9ff" />
+<img width="1366" height="768" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/ce419e70-666f-4e0e-9f29-97ed63de77fb" />
+<img width="1366" height="768" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/c868deb7-c896-4de6-a851-89a9f3cf5806" />
+<img width="1366" height="768" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/887a52fa-52b7-439c-bd60-f700719b9a9f" />
 
 
 ## 🚀 How to Run
@@ -87,7 +93,7 @@ Built with ❤️ using Python, scikit-learn, TensorFlow/Keras, Hugging Face Tra
 Follow these steps to set up and run the project locally in VS Code with Streamlit:
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/ThilagavathyVenkatesan/NLP_SentimentAnalysis.git
+git clone https://github.com/ThilagavathyVenkatesan/NLP_SentimentAnalysis.git                                                                                                             
 cd NLP_SentimentAnalysis
 
 ### 2️⃣ Create a Virtual Environment
